@@ -1,33 +1,10 @@
 /**
  * \file bsp10077.c
- *
- * \brief Short description
- *
- * Detailed description
- *
- * \version $Revision: $ (SVN)
- * \date June 7, 2016
- * \author dog, Automatek GmbH
  */
 
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
- * \brief main
- * 
- * Usage:
- *    add usage manual here
- * Arguments:
- *    arg1 - ...
- *    arg2 - ...
- *    argN - ...
- * 
- * \return Exit codes:
- * \return 0 - Successful termination.
- * \return ...
- * \return ...
- * \author dog, Automatek GmbH
  */
 #define MAX_STRING 81
 
